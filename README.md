@@ -7,7 +7,7 @@
 ```
 • git clone https://github.com/R3LI4NT/Wifi-Hack
 • cd Wifi-Hack
-• bash requirements.sh
+• sudo bash requirements.sh
 • python3 wifi-hack.py
 ```
 
