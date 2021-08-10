@@ -6,7 +6,7 @@
 ![img](https://user-images.githubusercontent.com/75953873/115979146-99bef380-a55a-11eb-85f8-af7a81a05bc7.png)
 
 
-### ![#368E26](https://via.placeholder.com/15/368E26/000000?text=+) > PARROT OS <
+### ![#368E26](https://www.parrotsec.org//15/368E26/000000?text=+) > PARROT OS <
 
 ![Captura de pantalla (171)](https://user-images.githubusercontent.com/75953873/128929596-f1f58a5d-f7bd-4571-9fde-de03a225ba48.png)
 
