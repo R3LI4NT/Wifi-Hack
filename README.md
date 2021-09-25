@@ -25,3 +25,6 @@
 **`ES:`** No me hago responsable del mal uso que se le pueda dar a esta herramienta, úselo para Pentesting o fines educativos.
 
 **`EN:`**  I am not responsible for the misuse that may be given to this tool, use it for Pentesting or educational purposes.
+
+
+## El objetivo de está herramienta es automatizar los procesos de aircrack-ng, de modo que nos ahorra tiempo.
