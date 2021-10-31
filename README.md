@@ -8,7 +8,7 @@
 ![kali-linux](https://user-images.githubusercontent.com/75953873/139563454-4a210fd6-96a7-4ee1-b7a2-0e6c4174e24f.png)
 
 
-### ![#368E26](https://via.placeholder.com/15/368E26/000000?text=+) > PARROT OS <
+### [✔] Parrot OS
 
 ![Captura de pantalla (171)](https://user-images.githubusercontent.com/75953873/128929596-f1f58a5d-f7bd-4571-9fde-de03a225ba48.png)
 
