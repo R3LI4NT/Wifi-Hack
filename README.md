@@ -1,9 +1,11 @@
 ![wifi-hack](https://user-images.githubusercontent.com/75953873/115979290-66309900-a55b-11eb-8259-4b125efc42bb.png)
 
 
-### ![#008FFF](https://via.placeholder.com/15/2197EF/000000?text=+) > KALI LINUX <
+## Tested:
 
-![img](https://user-images.githubusercontent.com/75953873/115979146-99bef380-a55a-11eb-85f8-af7a81a05bc7.png)
+### [✔] Kali Linux
+
+![kali-linux](https://user-images.githubusercontent.com/75953873/139563454-4a210fd6-96a7-4ee1-b7a2-0e6c4174e24f.png)
 
 
 ### ![#368E26](https://via.placeholder.com/15/368E26/000000?text=+) > PARROT OS <
