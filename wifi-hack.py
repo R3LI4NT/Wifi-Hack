@@ -114,6 +114,18 @@ elif WH == 8:
     time.sleep(4)
     os.system("python3 wifi-hack.py")
 
+elif WH == 9:
+    os.system("clear")
+    banner()
+    print(" \033[1;37mIngrese la interfaz: (\033[0;37mwlan\033[0;31m0 \033[1;37m| \033[0;37mwlan\033[0;34m1\033[1;37m)")
+    interfaz = input(" \033[1;32m>> \033[0;37m")
+    os.system("ifconfig {} down".format(interfaz))
+    os.system("macchanger {} -r".format(interfaz))
+    os.system("ifconfig {} up".format(interfaz))
+    time.sleep(3)
+    os.system("clear")
+    os.system("python3 wifi-hack.py")   
+
 elif WH == 0:
     os.system("clear")
     goodbye()
@@ -121,4 +133,3 @@ elif WH == 0:
 
 #END CODE       
 #Follow me: https://github.com/R3LI4NT
-
