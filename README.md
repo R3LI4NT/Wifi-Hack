@@ -8,6 +8,12 @@
 ![kali-linux](https://user-images.githubusercontent.com/75953873/139563454-4a210fd6-96a7-4ee1-b7a2-0e6c4174e24f.png)
 
 
+
+### [✔] Linux Mint
+
+![wifi-hack-mint](https://user-images.githubusercontent.com/75953873/139563944-7eef6e72-05fd-4481-bcc4-bffa6edbb512.png)
+
+
 ### [✔] Parrot OS
 
 ![Captura de pantalla (171)](https://user-images.githubusercontent.com/75953873/128929596-f1f58a5d-f7bd-4571-9fde-de03a225ba48.png)
