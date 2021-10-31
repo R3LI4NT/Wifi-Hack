@@ -1,4 +1,4 @@
-  #!/usr/bin/env python 
+#!/usr/bin/env python 
 # -*- coding: utf-8 -*-
 
 import os
@@ -45,6 +45,7 @@ def menu():
  \033[0;31m[\033[1;37m6\033[0;31m] \033[0;32mCapturar Handshake
  \033[0;31m[\033[1;37m7\033[0;31m] \033[0;32mDescifrar clave
  \033[0;31m[\033[1;37m8\033[0;31m] \033[0;32mAtacar redes WPS (\033[1;32mWifite\033[0;32m)\033[0m
+ \033[0;31m[\033[1;37m9\033[0;31m] \033[0;32mFalsificar MAC
  \033[0;32m[\033[1;37m0\033[0;32m] \033[0;31mSalir\033[0m\n
 """)
 
@@ -63,10 +64,8 @@ def goodbye():
   | |__| | |__| | |__| | |__| | |_) | | |  | |____|_|
    \_____|\____/ \____/|_____/|____/  |_|  |______(_)\033[0m
 
-     \033[1;31m<\033[0;37mEl poder del usuario radica en su ANONIMATO\033[1;31m>\033[0m 
+     \033[1;31m<\033[1;37mEl poder del usuario radica en su ANONIMATO\033[1;31m>\033[0m 
 
  \033[1;37m------------------------------------------------------\033[0m 
                                                    
-"""+ WHITE + Style.NORMAL)	
-
-
+"""+ WHITE + Style.NORMAL)
