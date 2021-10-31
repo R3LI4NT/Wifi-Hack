@@ -10,7 +10,8 @@ dependencias() {
 	sudo apt-get install aircrack-ng
 	printf "\n\e[1;92mWifite\e[0m\n"
 	sudo apt-get install wifite
-
+	printf "\n\e[1;96mMACchanger\e[0m\n"
+	sudo apt-get install macchanger
 }
 
 dependencias
