@@ -18,6 +18,11 @@
 ![wifi-hack-mint](https://user-images.githubusercontent.com/75953873/139563944-7eef6e72-05fd-4481-bcc4-bffa6edbb512.png)
 
 
+### [✔] Ubuntu
+
+![wifi-hack-ubuntu](https://user-images.githubusercontent.com/75953873/140593033-e8498792-2f3d-4651-8787-f882a43901b9.png)
+
+
 ## Instalación / Installation
 
 ```
