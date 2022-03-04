@@ -1,11 +1,11 @@
-![wifi_hack_kali](https://user-images.githubusercontent.com/75953873/156777856-54c9a72a-a662-497a-a343-603761b38596.png)
+
 
 
 ## Tested On:
 
 ### [✔] Kali Linux
 
-![kali-linux](https://user-images.githubusercontent.com/75953873/139563454-4a210fd6-96a7-4ee1-b7a2-0e6c4174e24f.png)
+![wifi_hack_kali](https://user-images.githubusercontent.com/75953873/156777856-54c9a72a-a662-497a-a343-603761b38596.png)
 
 
 ### [✔] Parrot OS
