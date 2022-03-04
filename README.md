@@ -28,7 +28,7 @@
 
 ![fakAP](https://user-images.githubusercontent.com/75953873/156778428-f33d5570-0e90-4708-8268-cf547d6f6fe5.png)
 
-![android_fakeAP](https://user-images.githubusercontent.com/75953873/156779190-1c07faca-2e1c-453c-9c82-42396bf19acd.jpg =250x250)
+![android_fakeAP](https://user-images.githubusercontent.com/75953873/156779190-1c07faca-2e1c-453c-9c82-42396bf19acd.jpg | width=100)
 
 
 ## Instalación / Installation
