@@ -10,7 +10,8 @@ dependencias() {
 	sudo apt-get install aircrack-ng
 	printf "\n\e[1;92mWifite\e[0m\n"
 	sudo apt-get install wifite
-
+	printf "\n\e[1;96mMDK3\e[0m\n"
+	sudo apt-get install mdk3
 }
 
 dependencias
