@@ -24,7 +24,7 @@
 
 
 ### 🆕 Update 2.0
-**`[+] Fake AP`**
+**`[+] Fake AP + Create wordlist`**
 
 ![fakAP](https://user-images.githubusercontent.com/75953873/156778428-f33d5570-0e90-4708-8268-cf547d6f6fe5.png)
 
