@@ -3,22 +3,22 @@
 
 ## Tested On:
 
-### [✔] Kali Linux (Version 2.0)
+### [✔] Kali Linux (Tool version 2.0)
 
 ![wifi_hack_kali](https://user-images.githubusercontent.com/75953873/156777856-54c9a72a-a662-497a-a343-603761b38596.png)
 
 
-### [✔] Parrot OS
+### [✔] Parrot OS (Tool version 1.0)
 
 ![wifi-hack-parrot](https://user-images.githubusercontent.com/75953873/139566052-79982b92-28a7-4e6d-9afa-266032f9677e.png)
 
 
-### [✔] Linux Mint
+### [✔] Linux Mint (Tool version 1.0)
 
 ![wifi-hack-mint](https://user-images.githubusercontent.com/75953873/139563944-7eef6e72-05fd-4481-bcc4-bffa6edbb512.png)
 
 
-### [✔] Ubuntu
+### [✔] Ubuntu (Tool version 1.0)
 
 ![wifi-hack-ubuntu](https://user-images.githubusercontent.com/75953873/140593033-e8498792-2f3d-4651-8787-f882a43901b9.png)
 
