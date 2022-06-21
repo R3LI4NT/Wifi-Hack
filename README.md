@@ -24,7 +24,7 @@
 
 
 ### 🆕 Update 2.0
-**`[+] Fake AP + Create wordlist`**
+**`[+] Fake AP + Create Dictionary`**
 
 ![fakeAP](https://user-images.githubusercontent.com/75953873/174705724-75714841-1c00-4526-8e79-26caf820dcaf.png)
 
