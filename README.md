@@ -28,7 +28,7 @@
 
 ![fakeAP](https://user-images.githubusercontent.com/75953873/174706969-1ca06a64-e34c-4a99-9502-56291a2d188b.png)
 
-<img src="https://user-images.githubusercontent.com/75953873/156779190-1c07faca-2e1c-453c-9c82-42396bf19acd.jpg" width="220" height="510">
+<img src="https://user-images.githubusercontent.com/75953873/156779190-1c07faca-2e1c-453c-9c82-42396bf19acd.jpg" width="230" height="510">
 
 
 ## Instalación / Installation
