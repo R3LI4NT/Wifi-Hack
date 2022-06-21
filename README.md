@@ -1,5 +1,4 @@
-![wifi-hack](https://user-images.githubusercontent.com/75953873/115979290-66309900-a55b-11eb-8259-4b125efc42bb.png)
-
+<h1 align="center"><img src="https://user-images.githubusercontent.com/75953873/115979290-66309900-a55b-11eb-8259-4b125efc42bb.png"></h1>
 
 ## Tested On:
 
