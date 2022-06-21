@@ -1,7 +1,6 @@
 from banner.banner import *
 
 
-
 def slowly(s):
   try:
     time.sleep(1)
@@ -139,7 +138,15 @@ elif WH == 10:
     interface = input(" \033[1;32m>> \033[0;37m")
     print(" \033[1;37mIntroduzca el canal:")
     channel = input(" \033[1;32m>> \033[0;37m")
-    print(" \033[1;37mIngrese el diccionario\033[0m (default: \033[1;37mfakeAP.txt\033[0m): ")
+    print(" \033[1;37m¿Desea crear un diccionario de AP falsas? [\033[1;32my\033[0m/\033[1;31mn\033[0m]\033[0m")
+    crearDic = input(" \033[1;32m>> \033[0;37m")
+    if crearDic == 'y':
+        os.system('sudo bash AP_generator.sh')
+
+    elif crearDic == 'n':
+        pass    
+
+    print(" \033[1;37mIngrese la ruta del diccionario\033[0m (default: \033[1;37m/wordlist/fakeAP.txt\033[0m): ")
     diccionario = str(input(" \033[1;32m>> \033[0;37m"))
     print("\n \033[1;31m[AVISO] \033[0;37mPresione \033[1;37m\033[1;37mCTRL + C \033[0;37mpara detener el ataque\033[0m")
     os.system("mdk3 {} b -f {} -a -s 1000 -c {}".format(interface,diccionario,channel))
