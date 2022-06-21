@@ -3,7 +3,7 @@
 
 ## Tested On:
 
-### [✔] Kali Linux
+### [✔] Kali Linux (Version 2.0)
 
 ![wifi_hack_kali](https://user-images.githubusercontent.com/75953873/156777856-54c9a72a-a662-497a-a343-603761b38596.png)
 
