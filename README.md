@@ -47,4 +47,4 @@
 **`EN:`**  I am not responsible for the misuse that may be given to this tool, use it for Pentesting or educational purposes.
 
 
-## El objetivo de está herramienta es automatizar los procesos de aircrack-ng, de modo que nos ahorre tiempo.
+## El objetivo de está herramienta es automatizar los procesos de aircrack-ng.
