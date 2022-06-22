@@ -24,6 +24,7 @@
 
 ### 🆕 Update 2.0
 **`[+] Fake AP + Create Dictionary`**
+**`[+] Cracking PIN WPS --> Wifite replaced for Bully`**
 
 ![fakeAP](https://user-images.githubusercontent.com/75953873/174706969-1ca06a64-e34c-4a99-9502-56291a2d188b.png)
 
