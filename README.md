@@ -7,9 +7,9 @@
 ![wifi-hack](https://user-images.githubusercontent.com/75953873/174921385-a512703d-a9d0-4ce5-837c-f7453401e140.png)
 
 
-### [✔] Parrot OS (Tool version 1.0)
+### [✔] Parrot OS (Tool version 2.0)
 
-![wifi-hack-parrot](https://user-images.githubusercontent.com/75953873/180166460-fbfdf16f-32e0-42a6-81ec-908d10f0ebfe.png)
+![wifi-hack-parrot](https://user-images.githubusercontent.com/75953873/192111674-32311b3e-3fad-486c-bdde-8af6fcb157e1.png)
 
 
 ### [✔] Linux Mint (Tool version 1.0)
