@@ -5,7 +5,7 @@
 ### [✔] Kali Linux (Tool version 2.0)
 
 ![wifi-hack](https://user-images.githubusercontent.com/75953873/174921385-a512703d-a9d0-4ce5-837c-f7453401e140.png)
-
+70:03:7E:8F:37:CD
 
 ### [✔] Parrot OS (Tool version 2.0)
 
