@@ -1,4 +1,4 @@
-70:03:7E:8F:37:CD#Dependencias
+70:03:7E:8F:37:CD #Dependencias
 
 dependencias() {
 
