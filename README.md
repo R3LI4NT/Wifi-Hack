@@ -33,6 +33,15 @@
 
 ![bully](https://user-images.githubusercontent.com/75953873/174921009-6221cb04-fe8a-47e4-b46a-78748bb6aac4.png)
 
+</br>
+
+### 🆕 Update 2.1
+
+**`[+] Scan output in format CSV`**
+
+![output](https://github.com/user-attachments/assets/65da59eb-73a3-408c-ab2a-dc1fcede0e07)
+
+
 
 ## Instalación / Installation
 
@@ -42,6 +51,10 @@
 • sudo bash requirements.sh
 • python3 wifi-hack.py
 ```
+
+</br>
+
+<h1 align="center"></h1>
 
 ### Importante
 
