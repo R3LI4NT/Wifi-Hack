@@ -65,7 +65,7 @@ elif WH == 5:
     print(" \033[1;37mIngrese la interfaz: (\033[0;37mwlan\033[0;31m0\033[0;37mmon \033[1;37m| \033[0;37mwlan\033[0;34m1\033[0;37mmon\033[1;37m)\033[0m")
     interfaz = input(" \033[1;32m>> \033[0;37m")
     print("\033[1;37mIngrese el nombre del archivo de salida: (Ej: \033[0;31mredes-output\033[0m\033[1;37m)\033[0m")
-    archivo_salida = inputt(" \033[1;32m>> \033[0;37m")
+    archivo_salida = input(" \033[1;32m>> \033[0;37m")
     comando = "airodump-ng --write scan-output/{} --output-format csv  {}".format(archivo_salida,interfaz)
     print("\n \033[1;31m[AVISO] \033[0;37mCuando termine, presione \033[1;37mCTRL + C\033[0m")
     time.sleep(3)
