@@ -64,13 +64,28 @@ elif WH == 5:
     banner()
     print(" \033[1;37mIngrese la interfaz: (\033[0;37mwlan\033[0;31m0\033[0;37mmon \033[1;37m| \033[0;37mwlan\033[0;34m1\033[0;37mmon\033[1;37m)\033[0m")
     interfaz = input(" \033[1;32m>> \033[0;37m")
-    comando = "airodump-ng {}".format(interfaz)
+    print("\033[1;37mIngrese el nombre del archivo de salida: (Ej: \033[0;31mredes-output\033[0m\033[1;37m)\033[0m")
+    archivo_salida = input("\033[1;32m>> \033[0;37m")
+    comando = "airodump-ng --write scan-output/{} --output-format csv  {}".format(archivo_salida,interfaz)
     print("\n \033[1;31m[AVISO] \033[0;37mCuando termine, presione \033[1;37mCTRL + C\033[0m")
     time.sleep(3)
-    os.system(comando)
-    time.sleep(9)
-    os.system("clear")
-    os.system("python3 wifi-hack.py") 
+    try:
+        os.system(comando)
+    except KeyboardInterrupt:
+        print("\n\n \033[1;31m[AVISO] \033[0;37Escaneo detenido, guardando resultados...\033[0m")
+        time.sleep(2)
+    finally:
+        time.sleep(3)
+        print("\n\033[1;37mLos datos se han guarado en: \033[0;37mscan-output/\033[0;32m{}01.csv\033[0m".format(archivo_salida))
+        
+        print("\033[1;37m¿Desea volver al menú principal? (\033[0;32ms\033[0;37m/\033[0;31mn\033[1;37m):\033[0m")
+        volver = input(" \033[1;32m>> \033[0;37m").strip().lower()
+        if volver != 's':
+            print("\n\033[1;31m[GOODBYE]\033[0m Saliendo del programa...")
+            time.sleep(1)
+            exit(0)
+        else:
+            os.system('python3 wifi-hack.py')  
 
 elif WH == 6:
     os.system("clear")
