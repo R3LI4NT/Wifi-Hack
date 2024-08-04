@@ -78,9 +78,9 @@ elif WH == 5:
         time.sleep(3)
         print("\n\033[1;37mLos datos se han guarado en: \033[0;37mscan-output/\033[0;32m{}01.csv\033[0m".format(archivo_salida))
         
-        print("\033[1;37m¿Desea volver al menú principal? (\033[0;32ms\033[0;37m/\033[0;31mn\033[1;37m):\033[0m")
+        print("\033[1;37m¿Desea volver al menú principal? (\033[0;32my\033[0;37m/\033[0;31mn\033[1;37m):\033[0m")
         volver = input(" \033[1;32m>> \033[0;37m").strip().lower()
-        if volver != 's':
+        if volver != 'y':
             print("\n\033[1;31m[GOODBYE]\033[0m Saliendo del programa...")
             time.sleep(1)
             exit(0)
