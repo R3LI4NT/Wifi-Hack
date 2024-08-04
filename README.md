@@ -41,7 +41,9 @@
 
 ![output](https://github.com/user-attachments/assets/65da59eb-73a3-408c-ab2a-dc1fcede0e07)
 
+![outputCSV](https://github.com/user-attachments/assets/42bff460-f6b1-4298-b7fd-da347e6ff05e)
 
+</br>
 
 ## Instalación / Installation
 
