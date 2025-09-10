@@ -146,7 +146,8 @@ elif WH == 9:
     print(f"Cambiando la MAC de la interfaz {interface} a {nuevaMAC}")
     os.system(f"ifconfig {interface} hw ether {nuevaMAC}")
     print(f"La dirección MAC cambio a: {nuevaMAC}")
-    os.system(f"ifconfig {interface} up")
+
+    face} up")
     print("La interfaz esta lista!")
     time.sleep(1)
     os.system(f"ifconfig {interface}")
